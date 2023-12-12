@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Das &amp; Co" language="en" table="x_1002590_testing_das_co">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Das &amp; Co</label>
+            <language>en</language>
+            <name>x_1002590_testing_das_co</name>
+            <plural>Das &amp; Cos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Arun221</sys_created_by>
+            <sys_created_on>2023-12-12 13:07:05</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Das &amp; Co</sys_name>
+            <sys_package display_value="Testing" source="x_1002590_testing">22a05fb19707311033bafb200153af1e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Testing">22a05fb19707311033bafb200153af1e</sys_scope>
+            <sys_update_name>sys_documentation_x_1002590_testing_das_co__en</sys_update_name>
+            <sys_updated_by>Arun221</sys_updated_by>
+            <sys_updated_on>2023-12-12 13:07:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
