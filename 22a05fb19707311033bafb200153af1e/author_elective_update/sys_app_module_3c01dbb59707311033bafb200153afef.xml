@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Testing">30011b719707311033bafb200153af52</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Closed</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1002590_testing_das_co</name>
+        <order>5</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>active=false^EQ</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>Arun221</sys_created_by>
+        <sys_created_on>2023-12-12 13:07:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3c01dbb59707311033bafb200153afef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Testing" source="x_1002590_testing">22a05fb19707311033bafb200153af1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing">22a05fb19707311033bafb200153af1e</sys_scope>
+        <sys_update_name>sys_app_module_3c01dbb59707311033bafb200153afef</sys_update_name>
+        <sys_updated_by>Arun221</sys_updated_by>
+        <sys_updated_on>2023-12-12 13:07:27</sys_updated_on>
+        <timeline_page/>
+        <title>Closed</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Testing">22a05fb19707311033bafb200153af1e</application>
+        <file_path/>
+        <instance_id>29e72703db4673c8f492c59705961990</instance_id>
+        <instance_name>dev88216</instance_name>
+        <name>sys_app_module_3c01dbb59707311033bafb200153afef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Testing">30011b719707311033bafb200153af52</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Closed</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1002590_testing_das_co</name><order>5</order><override_menu_roles>false</override_menu_roles><query>active=false^EQ</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>Arun221</sys_created_by><sys_created_on>2023-12-12 13:07:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3c01dbb59707311033bafb200153afef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Closed</sys_name><sys_overrides/><sys_package display_value="Testing" source="x_1002590_testing">22a05fb19707311033bafb200153af1e</sys_package><sys_policy/><sys_scope display_value="Testing">22a05fb19707311033bafb200153af1e</sys_scope><sys_update_name>sys_app_module_3c01dbb59707311033bafb200153afef</sys_update_name><sys_updated_by>Arun221</sys_updated_by><sys_updated_on>2023-12-12 13:07:27</sys_updated_on><timeline_page/><title>Closed</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>559542894</payload_hash>
+        <record_name>Closed</record_name>
+        <reverted_from/>
+        <source>e2a05fb19707311033bafb200153af20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Arun221</sys_created_by>
+        <sys_created_on>2023-12-12 13:07:27</sys_created_on>
+        <sys_id>f401dbb59707311033bafb200153aff1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c5e23b66f0000001</sys_recorded_at>
+        <sys_updated_by>Arun221</sys_updated_by>
+        <sys_updated_on>2023-12-12 13:07:27</sys_updated_on>
+        <type>Module</type>
+        <update_guid>3c01dbb5530731109805a5324540e2f0</update_guid>
+        <update_guid_history>3c01dbb5530731109805a5324540e2f0:559542894</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Closed">156357799707311033bafb200153aff0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Arun221</sys_created_by>
+        <sys_created_on>2023-12-12 13:17:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>232e13fb96ed47109e7a92d940a030a4</sys_id>
+        <sys_metadata>3c01dbb59707311033bafb200153afef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_package display_value="Testing" source="x_1002590_testing">22a05fb19707311033bafb200153af1e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Testing">22a05fb19707311033bafb200153af1e</sys_scope>
+        <sys_scope_delete display_value="">810eb61921d443e8906068c4a1dda240</sys_scope_delete>
+        <sys_update_name>sys_app_module_3c01dbb59707311033bafb200153afef</sys_update_name>
+        <sys_update_version display_value="sys_app_module_3c01dbb59707311033bafb200153afef">f401dbb59707311033bafb200153aff1</sys_update_version>
+        <sys_updated_by>Arun221</sys_updated_by>
+        <sys_updated_on>2023-12-12 13:17:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

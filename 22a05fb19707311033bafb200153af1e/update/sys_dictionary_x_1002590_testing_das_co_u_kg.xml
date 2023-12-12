@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_1002590_testing_das_co">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_kg" table="x_1002590_testing_das_co">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -13,7 +13,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>Kg</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -26,15 +26,15 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>u_kg</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>100</max_length>
         <name>x_1002590_testing_das_co</name>
         <next_element/>
         <primary>false</primary>
@@ -51,14 +51,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>Arun221</sys_created_by>
-        <sys_created_on>2023-12-12 13:17:59</sys_created_on>
-        <sys_name>x_1002590_testing_das_co</sys_name>
+        <sys_created_on>2023-12-12 13:20:07</sys_created_on>
+        <sys_name>Kg</sys_name>
         <sys_package display_value="Testing" source="x_1002590_testing">22a05fb19707311033bafb200153af1e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Testing">22a05fb19707311033bafb200153af1e</sys_scope>
-        <sys_update_name>sys_dictionary_x_1002590_testing_das_co_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1002590_testing_das_co_u_kg</sys_update_name>
         <sys_updated_by>Arun221</sys_updated_by>
-        <sys_updated_on>2023-12-12 13:17:59</sys_updated_on>
+        <sys_updated_on>2023-12-12 13:20:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Das &amp; Co</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Das &amp; Co</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">a67056e4f90211108c8bd16244dfe708</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>Arun221</sys_created_by>
+        <sys_created_on>2023-12-12 13:07:05</sys_created_on>
+        <sys_id>ebe09bb59707311033bafb200153af6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Das &amp; Co</sys_name>
+        <sys_package display_value="Testing" source="x_1002590_testing">22a05fb19707311033bafb200153af1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing">22a05fb19707311033bafb200153af1e</sys_scope>
+        <sys_update_name>sys_wizard_answer_ebe09bb59707311033bafb200153af6b</sys_update_name>
+        <sys_updated_by>Arun221</sys_updated_by>
+        <sys_updated_on>2023-12-12 13:07:05</sys_updated_on>
+        <table/>
+        <target_url>x_1002590_testing_das_co.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Testing">22a05fb19707311033bafb200153af1e</application>
+        <file_path/>
+        <instance_id>29e72703db4673c8f492c59705961990</instance_id>
+        <instance_name>dev88216</instance_name>
+        <name>sys_wizard_answer_ebe09bb59707311033bafb200153af6b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Das &amp; Co</answer><button_label/><dependent_value/><element/><name>Das &amp; Co</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">a67056e4f90211108c8bd16244dfe708</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>Arun221</sys_created_by><sys_created_on>2023-12-12 13:07:05</sys_created_on><sys_id>ebe09bb59707311033bafb200153af6b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Das &amp; Co</sys_name><sys_package display_value="Testing" source="x_1002590_testing">22a05fb19707311033bafb200153af1e</sys_package><sys_policy/><sys_scope display_value="Testing">22a05fb19707311033bafb200153af1e</sys_scope><sys_update_name>sys_wizard_answer_ebe09bb59707311033bafb200153af6b</sys_update_name><sys_updated_by>Arun221</sys_updated_by><sys_updated_on>2023-12-12 13:07:05</sys_updated_on><table/><target_url>x_1002590_testing_das_co.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>416118290</payload_hash>
+        <record_name>Das &amp; Co</record_name>
+        <reverted_from/>
+        <source>9a3208329702311033bafb200153af50</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-26 07:35:06</sys_created_on>
+        <sys_id>ce6397799707311033bafb200153afaf</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b6ae888100000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>8e639779a10731108104af617d7533af</update_guid>
+        <update_guid_history>8e639779a10731108104af617d7533af:416118290</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Arun221</sys_created_by>
+        <sys_created_on>2023-12-12 13:17:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>3b322a2b147d4a8a94f9970c76205cc4</sys_id>
+        <sys_metadata>ebe09bb59707311033bafb200153af6b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Das &amp; Co</sys_name>
+        <sys_package display_value="Testing" source="x_1002590_testing">22a05fb19707311033bafb200153af1e</sys_package>
+        <sys_parent display_value="Task">a67056e4f90211108c8bd16244dfe708</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Testing">22a05fb19707311033bafb200153af1e</sys_scope>
+        <sys_scope_delete display_value="">810eb61921d443e8906068c4a1dda240</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_ebe09bb59707311033bafb200153af6b</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_ebe09bb59707311033bafb200153af6b">ce6397799707311033bafb200153afaf</sys_update_version>
+        <sys_updated_by>Arun221</sys_updated_by>
+        <sys_updated_on>2023-12-12 13:17:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
